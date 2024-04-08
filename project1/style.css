@@ -1,0 +1,213 @@
+.navbar {
+  background-color: #6B3CC9;
+}
+
+.navbar-brand .logo-img {
+  width: 238.89px;
+  height: 36.11px;
+  top: -11.11px;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 20px;
+}
+
+.navbar-nav .nav-link {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #FFFFFF !important;
+  text-transform: uppercase;
+}
+
+.navbar-nav .nav-link:hover {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.hero-section {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+}
+
+.frame497 {
+  position: absolute;
+  width: 630px;
+  height: 306px;
+  top: 354px;
+  left: 80px;
+  padding: 24px 40px 32px 40px;
+  gap: 20px;
+  opacity: 1;
+  background: linear-gradient(256.73deg, #1CBDDD 27.86%, #4DCA79 100%);
+  color: #FFFFFF;
+  font-family: "Inter", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  border: 2px solid #1CBDDD;
+}
+
+.frame497-button {
+  width: 214px;
+  height: 38px;
+  padding: 12px 20px 12px 20px;
+  gap: 8px;
+  border-radius: 4px;
+  opacity: 1;
+  background: #F28D35;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+}
+
+.frame497-button-content {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.frame498 {
+  display: flex;
+  align-items: center;
+  width: auto;
+  max-width: 1064px;
+  height: auto;
+  position: absolute;
+  top: 857px;
+  left: 188px;
+  gap: 108px;
+  opacity: 1;
+}
+
+.frame92 {
+  width: 542px;
+  height: 187px;
+  gap: 20px;
+  opacity: 1;
+  position: relative;
+  top: -20px;
+}
+
+.frame74 {
+  width: 507px;
+  height: 33px;
+  gap: 12px;
+  opacity: 1;
+  position: relative;
+  top: -20px;
+}
+
+.frame74-content {
+  font-family: "Poppins", sans-serif;
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 33px;
+  letter-spacing: 0.4000000059604645px;
+  text-align: left;
+  width: 507px;
+  height: 33px;
+  gap: 0px;
+  opacity: 1;
+  color: #6B3CC9;
+}
+
+.frame92-button {
+  width: 129px;
+  height: 38px;
+  padding: 12px 20px;
+  gap: 8px;
+  border-radius: 4px;
+  opacity: 1;
+  background: #F28D35;
+  border: none;
+}
+
+.frame92-button-content {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.image2 {
+  width: 414px;
+  height: 414px;
+  gap: 0px;
+  opacity: 1;
+  position: relative;
+  top: -20px;
+}
+
+.frame499 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  max-width: 1064px;
+  height: auto;
+  position: absolute;
+  top: 1100px;
+  left: 188px;
+  gap: 108px;
+  opacity: 1;
+  margin: 40px;
+  padding: 20px;
+}
+
+.frame6109 {
+  position: relative;
+  width: 375px;
+  height: 812px;
+  top: -201px;
+  left: 5280px;
+  padding: 16px 20px;
+  gap: 0px;
+  opacity: 0;
+  background: #FFFFFF;
+}
+
+.frame6108 {
+  width: 335px;
+  height: 268px;
+  gap: 36px;
+  opacity: 0;
+}
+
+.navlink {
+  width: 335px;
+  height: 17px;
+  gap: 0px;
+  opacity: 0;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16.94px;
+  text-align: left;
+  background: #100C08;
+}
+
+.navlink a {
+  text-transform: uppercase;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.navlink a:hover {
+  color: rgba(255, 255, 255, 0.75);
+}
